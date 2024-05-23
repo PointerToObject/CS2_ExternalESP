@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Aiden\Desktop\External_CS2\external test\external test\GameEngine.h(183,1): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+  (compiling source file 'main.cpp')
+  
+C:\Users\Aiden\Desktop\External_CS2\external test\external test\GameEngine.h(183,21): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  (compiling source file 'main.cpp')
+  
+C:\Users\Aiden\Desktop\External_CS2\external test\external test\main.cpp(76,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aiden\Desktop\External_CS2\external test\external test\main.cpp(76,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aiden\Desktop\External_CS2\external test\external test\main.cpp(16,14): warning C4101: 'draw': unreferenced local variable
+  external test.vcxproj -> C:\Users\Aiden\Desktop\External_CS2\external test\x64\Debug\external test.exe

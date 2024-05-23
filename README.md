@@ -22,3 +22,4 @@ To do list:
 3. create my own view matrix (even know 90% are copied)
 4. clean up code
 5. go internal ( next project )
+6. convert meters into sources disgusting hammer units or what ever its called

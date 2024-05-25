@@ -23,3 +23,6 @@ To do list:
 4. clean up code
 5. go internal ( next project )
 6. convert meters into sources disgusting hammer units or what ever its called
+7. multithreading 
+8. add boxes 
+9. add skeleton(later im too lazy)

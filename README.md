@@ -1,6 +1,6 @@
 # CS2 Simple ImGui ESP 
 what up boys, takikng a break from dayz and heading towards cs2 to learn some more. this game gave me a challenege, but i'm just at the point where im starting to understand the game engine. 
-uploading this to log my progress since 2/26/2024
+uploading this to log my progress since 2/26/2024. ps its a shitty cheat and has no AC bypass, launch with insecure and update the offsets.
 
 How To Use
 
